@@ -1,4 +1,4 @@
-const createClass = require('react-create-class');
+const createClass = require('create-react-class');
 const PropTypes = require('prop-types');
 
 module.exports = (React, ReactNative, { model, styles }) => {

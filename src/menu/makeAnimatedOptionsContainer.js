@@ -1,4 +1,4 @@
-const createClass = require('react-create-class');
+const createClass = require('create-react-class');
 
 module.exports = (React, ReactNative) => {
   const { Animated, Platform } = ReactNative;

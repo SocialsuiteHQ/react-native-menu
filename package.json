@@ -47,11 +47,11 @@
     "chai-as-promised": "^5.2.0",
     "colors": "^1.1.2",
     "concurrently": "^2.0.0",
+    "create-react-class": "^15.6.3",
     "mocha": "^2.3.4",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-addons-test-utils": "^15.4.2",
-    "react-create-class": "^1.0.0",
     "sinon": "^1.17.2",
     "wd": "^0.4.0"
   },
